@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Pedro Daniel Aguiar, tenho 20 anos e sou natural de Santa Catarina. Concluí o ensino médio no Senai com curso técnico em informática e atualmente curso Análise e Desenvolvimento de Sistemas no UniSENAI. Apaixonado por tecnologia, tenho foco em desenvolvimento Front-end, explorando principalmente React, Next.js e integração com APIs.
+Me chamo Pedro Daniel Aguiar, tenho 20 anos e sou de Santa Catarina. Concluí o ensino médio integrado ao curso técnico em Informática pelo SENAI e sou formado em Análise e Desenvolvimento de Sistemas pelo UniSENAI. Sou apaixonado por tecnologia, com foco em desenvolvimento Front-End, atuando principalmente com React, Next.js e integração com APIs. Atualmente, curso o primeiro semestre do bacharelado em Ciência de Dados e Inteligência Artificial, ampliando meus conhecimentos em dados e soluções tecnológicas.
 
 ---
 
